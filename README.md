@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 
-- 🎓 I'm a Computer Science student passionate about technology and problem-solving.  
+- 🎓 I'm a Computer Science Major passionate about technology and problem-solving.  
 - 👨‍💻 I currently specialize in **backend development with Node.js and Express.js**, and I'm building crossplatform mobile apps using **Kotlin Multiplatform**.  
 - 🤝 I'm collaborating on projects like an **NFC-based contact system** **Electronic Resoure Platform (ERP)** for multi-user business use  .  
 - 🛠 I love creating tools and systems that improve workflows, particularly in **manufacturing and engineering** environments.  
